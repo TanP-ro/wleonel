@@ -123,7 +123,7 @@ function App() {
             <>
               {/* Баннер */}
               <section  className="banner">
-                <img src="image/image-1 2.png" style={{height: '400px'}} alt="Фото баннера" className="banner__photo" />
+                <img src="image/image-1 2.png" style={{height: '100%'}} alt="Фото баннера" className="banner__photo" />
                 <button
                   className="askPsychologist"
                   onClick={() => window.open('https://vk.com/waliripsy', '_blank')}
