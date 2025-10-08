@@ -1,5 +1,6 @@
 {
   "name": "my-react-site",
+  "homepage": "https://tanp-ro.github.io/wleonel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
